@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/FueledConnect.Application/FueledConnect.Application.csproj" />
+    <Project Path="backend/FueledConnect.Core/FueledConnect.Core.csproj" />
+    <Project Path="backend/FueledConnect.Infrastructure/FueledConnect.Infrastructure.csproj" />
+    <Project Path="backend/FueledConnect.WebAPI/FueledConnect.WebAPI.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../FueledConnect.Application/FueledConnect.Application.csproj" />
+  <Project Path="../FueledConnect.Core/FueledConnect.Core.csproj" Id="ca3afbe5-0895-4a8d-960d-52e7c86de4ef" />
+  <Project Path="../FueledConnect.Infrastructure/FueledConnect.Infrastructure.csproj" Id="9a9cb217-3459-4859-ae6c-dc4125d40b3b" />
+  <Project Path="FueledConnect.WebAPI.csproj" />
+</Solution>
